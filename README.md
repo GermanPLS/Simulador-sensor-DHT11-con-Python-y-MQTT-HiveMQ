@@ -76,6 +76,7 @@ El script publicará cada 2 segundos datos simulados en el broker MQTT.
     En la sección "Subscribe", ingresa el topic:  sensor/dht11 y haz clic en **"Subscribe"`.
 
     Verás los datos publicados en tiempo real.
+![image](https://github.com/user-attachments/assets/f295bdbc-0cb1-4cf3-93a5-849ec0777424)
 
 🛠 Posibles Mejoras
 
