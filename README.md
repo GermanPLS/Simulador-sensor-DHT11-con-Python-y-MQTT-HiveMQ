@@ -1,0 +1,1 @@
+# Simulador-sensor-DHT11-con-Python-y-MQTT-HiveMQ
